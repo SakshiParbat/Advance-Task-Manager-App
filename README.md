@@ -1,16 +1,91 @@
-# React + Vite
+# Advance Task Manager App 📋
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive task management application built using React.js. The application helps users efficiently create, organize, track, and manage tasks through an intuitive and user-friendly interface. It demonstrates modern frontend development concepts including component-based architecture, state management, and CRUD operations.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Create New Tasks
+* Update Task Details
+* Delete Tasks
+* Task Status Management
+* Task Filtering & Search
+* Responsive Dashboard
+* Dynamic State Management
+* User-Friendly Interface
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React.js
+* JavaScript (ES6)
+* HTML5
+* CSS3
+* Vite
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Advance-Task-Manager-App/
+├── public/
+├── src/
+│ ├── components/
+│ ├── pages/
+│ ├── context/
+│ ├── assets/
+│ └── App.jsx
+├── package.json
+└── vite.config.js
+
+## 🎯 Learning Outcomes
+
+* React Component Architecture
+* State Management
+* CRUD Operations
+* Event Handling
+* Conditional Rendering
+* Responsive UI Development
+* Task Workflow Management
+
+## ▶️ Installation & Setup
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/Advance-Task-Manager-App.git
+```
+
+2. Install dependencies
+
+```bash
+npm install
+```
+
+3. Start the development server
+
+```bash
+npm run dev
+```
+
+4. Open the application in your browser.
+
+<img width="1365" height="609" alt="image" src="https://github.com/user-attachments/assets/d1b6d76b-4b22-49e4-8bf2-cf3129b50be6" />
+
+
+Add screenshots of your application here.
+
+## 🔗 Live Demo
+
+Add deployed application link here.
+
+## 🌟 Future Enhancements
+
+* User Authentication
+* Team Collaboration
+* Notifications & Reminders
+* Task Prioritization
+* Kanban Board View
+* Cloud Database Integration
+
+## 👩‍💻 Author
+
+Sakshi Parbat
+
+Frontend Developer | React.js Developer
